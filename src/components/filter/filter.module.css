@@ -16,7 +16,6 @@
     margin: 5px;
     width: 100%;
     justify-content: space-between;
-
 }
 
 
@@ -28,8 +27,6 @@
     padding: 10px;
     display: flex;
     flex-direction: column;
-
-
     text-align: start;
 }
 
@@ -41,5 +38,4 @@
     border: none;
     border-bottom: 1px solid #242424;
     outline: none;
-    
 }
